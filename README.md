@@ -20,3 +20,16 @@ As much of the stuff you need is included here as possible; if not, there'll hop
 10. Associated PATH edits
 
 ## How:
+
+10. PATH:
+
+	*Environment variables:
+
+	```C:\Users\%USERNAME%\Desktop\tools\Ruby24-x64\bin```
+	```%USERPROFILE%\AppData\Local\Microsoft\WindowsApps```
+	```C:\Users\%USERNAME%\AppData\Local\Programs\Git\cmd```
+	```C:\Users\%USERNAME%\AppData\Roaming\npm```
+
+	* Extensions:
+
+	```%PATHEXT%;.RB;.RBW```
