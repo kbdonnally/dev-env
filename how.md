@@ -22,12 +22,14 @@
 * Executable: [build 3143](https://download.sublimetext.com/Sublime%20Text%20Build%203143%20x64%20Setup.exe)
 
 * **Configuration:**
-	- For your theme and color scheme preference...
-	- Go to 'Tools -> Command Palette'
-	- It'll come up w/ an input bar: start typing "Install Package Control"
-	- Then, use Package Control to install the "predawn" theme
-	- This'll make the tabs all weirdy, which you don't super dig, so:
-	- Use "Adaptive" as the *theme* setting, and "predawn" for *color scheme*
+	* For your theme and color scheme preference...
+	* Go to 'Tools -> Command Palette'
+	* It'll come up w/ an input bar: start typing "Install Package Control"
+	* Then, use Package Control to install the "predawn" theme
+	* This'll make the tabs all weirdy, which you don't super dig, so:
+	* Use "Adaptive" as the *theme* setting, and "predawn" for *color scheme*
+	* To set Markdown stuff: with a .md file open...
+		* Under "Preferences" -> "Syntax-Specific" -> paste in the following: ```"color_scheme": "Packages/Predawn/predawn-markdown.tmTheme"```
 
 ### 2. Git:
 
